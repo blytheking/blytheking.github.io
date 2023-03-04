@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PSTAT130
 venue: "UCSB, PSTAT"
-date: 2021-1-1
+date: 2021-6-1
 location: "Santa Barbara, CA"
 ---
 
