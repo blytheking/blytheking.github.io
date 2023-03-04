@@ -1,7 +1,7 @@
 ---
 title: "PSTAT10"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/PSTAT10
 venue: "UCSB, PSTAT"
 date: 2021-04-01
