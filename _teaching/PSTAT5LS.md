@@ -1,5 +1,5 @@
 ---
-title: "PSTAT5LS"
+title: "PSTAT5LS: Statistics for Life Sciences"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PSTAT5LS
