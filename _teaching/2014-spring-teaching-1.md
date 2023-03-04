@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "PSTAT120A: Statistics and Probability"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2020-fall-teaching
+venue: "UCSB, PSTAT"
+date: 2020-10-1
+location: "Santa Barbara, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+From Fall 2020 - Spring 2021 and Fall 2021, I taught 
 
-Heading 1
+Responsibilities
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+I led sections, wrote weekly material, and graded assignments for 20-40 undergraduate students.
