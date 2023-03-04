@@ -13,3 +13,7 @@ From Fall 2020 - Spring 2021 and Fall 2021, I was a teaching assistant for Stati
 Responsibilities
 ======
 I led sections, wrote weekly material, and graded assignments for 20-40 undergraduate students.
+
+Topics Covered
+======
+Introduction to random variables, joint distribution, marginal distribution, determining CDFs
