@@ -1,7 +1,7 @@
 ---
 title: "PSTAT5LS"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/PSTAT5LS
 venue: "UCSB, PSTAT"
 date: 2023-01-01
