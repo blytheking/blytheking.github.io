@@ -1,5 +1,5 @@
 ---
-title: "PSTAT10"
+title: "PSTAT10: Principles of Data Science in R"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PSTAT10
