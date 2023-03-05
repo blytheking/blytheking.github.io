@@ -38,7 +38,7 @@ Work experience
 
 * May 2017 - October 2018: Undergraduate Research Assistant
   * UNC Department of Biophysics and Biochemistry
-  * Utilize CRIPSR, transfection, and other cell cloning techniques to prepare cell lines to use in analysis of the effect of DNA looping on gene expression
+  * Duties included: Utilizing CRIPSR, transfection, and other cell cloning techniques to prepare cell lines to use in analysis of the effect of DNA looping on gene expression
   * Supervisor: Dr. Jill Dowen
   
 Skills
