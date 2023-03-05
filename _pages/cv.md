@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Computer Science, University of North Carolina at Chapel Hill, 2020
+* M.A. in Statistics with a Specialization in Data Science, University of California, Santa Barbara, 2022
+* Ph.D in Statistics and Applied Probability, University of California, Santa Barbara, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2021 - present: Graduate Research Assistant
+  * University of California, Santa barbara
+  * Duties included: Analzying cell alignment and proliferation; investigating neural network architecture in cell detection programs
+  * Advisor: Dr. Mengyang Gu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2018 - April 2020: Undergraduate Research Assistant
+  * UNC Gillings School of Public Health
+  * Duties included: Using R to analyze associations between epigenetic outcomes and exposure to air pollution
+  * Supervisor: Dr. Radhika Dhingra
+
+* May 2019 - April 2020: Intern
+  * Delegate Advisors
+  * Duties included: Categorizing fund offerings and organizing electronic file system structure
+
+* June 2019 - August 2019: Research Intern
+  * Environmental Protection Agency
+  * Duties included: Using R to conduct exploratory analysis to determine associations between DNA methylation and pathways to all-cause mortality
+  * Supervisor: Dr. Cavin Ward-Caviness
+
+* May 2017 - October 2018: Undergraduate Research Assistant
+  * UNC Department of Biophysics and Biochemistry
+  * Utilize CRIPSR, transfection, and other cell cloning techniques to prepare cell lines to use in analysis of the effect of DNA looping on gene expression
+  * Supervisor: Dr. Jill Dowen
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: R, Python, SAS, Java
+* Languages: Chinese (advanced) and Spanish (intermediate)
 
 Publications
 ======
@@ -42,11 +52,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -56,4 +61,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Rehabilitation shift volunteer at Channel Islands Marine Wildlife Institute: assist in veterinary procedures to treat rescued seals and sea lions
+* PSTAT Comittee Adjunct Officer: assist in planning social events and discussing student and faculty needs in the statistics department at UCSB
