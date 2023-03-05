@@ -8,7 +8,7 @@ date: 2020-10-1
 location: "Santa Barbara, CA"
 ---
 
-From Fall 2020, Winter 2021, and Fall 2021, I was a teaching assistant for Statistics and Probability (PSTAT120A), an undergraduate introductory statistics course.
+For Fall 2020, Winter 2021, and Fall 2021, I was a teaching assistant for Statistics and Probability (PSTAT120A), an undergraduate introductory statistics course.
 
 Responsibilities
 ======
