@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blythe King / Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Blythe King"
 description              : &description "personal description"
