@@ -19,7 +19,7 @@ Work experience
 ======
 * February 2021 - present: Graduate Research Assistant
   * University of California, Santa barbara
-  * Duties included: Analzying cell alignment and proliferation; investigating neural network architecture in cell detection programs
+  * Duties included: Analzying cell alignment and proliferation; investigating neural network architecture in cell imaging programs
   * Advisor: Dr. Mengyang Gu
 
 * October 2018 - April 2020: Undergraduate Research Assistant
