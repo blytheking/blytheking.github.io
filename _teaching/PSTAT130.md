@@ -8,7 +8,7 @@ date: 2021-6-1
 location: "Santa Barbara, CA"
 ---
 
-In Summer 2021, Winter 2022, and Summer 2022, I was a teaching assistant for SAS Base Programming (PSTAT130), an undergraduate course geared to prepare students for the SAS certification exam.
+For Summer 2021, Winter 2022, and Summer 2022, I was a teaching assistant for SAS Base Programming (PSTAT130), an undergraduate course geared to prepare students for the SAS certification exam.
 
 Responsibilities
 ======
