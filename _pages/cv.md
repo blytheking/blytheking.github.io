@@ -44,7 +44,7 @@ Work experience
 Honors and Fellowships
 ======
 * Phillips Ambassador Scholarship (2018)
-  * Undergraduate cholarship to study abroad in Asia (CET Beijing)
+  * Undergraduate scholarship to study abroad in Asia (CET Beijing)
 * Regents Fellowship (2020)
   * Offered to one incoming graduate student in the Statistics & Applied Probability Department at UCSB
 * BioPacific MIP Associate (2022 - 2023)
