@@ -41,6 +41,15 @@ Work experience
   * Duties included: Utilizing CRIPSR, transfection, and other cell cloning techniques to prepare cell lines to use in analysis of the effect of DNA looping on gene expression
   * Supervisor: Dr. Jill Dowen
   
+Honors and Fellowships
+======
+* Phillips Ambassador Scholarship (2018)
+  * Undergraduate cholarship to study abroad in Asia (CET Beijing)
+* Regents Fellowship (2020)
+  * Offered to one incoming graduate student in the Statistics & Applied Probability Department at UCSB
+* BioPacific MIP Associate (2022 - 2023)
+  * Invited to participate in research discussions covering various bio-materials topics with the BioPacific NSF Materials Innovation Program
+
 Skills
 ======
 * Coding: R, Python, SAS, Java
