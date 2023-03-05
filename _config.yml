@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Blythe King"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   bio              : "Statistics PhD student interested in biostatistics and neural network architecture"
   location         : "Location"
   employer         :
