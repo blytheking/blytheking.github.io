@@ -8,7 +8,7 @@ date: 2022-4-1
 location: "Santa Barbara, CA"
 ---
 
-In Spring 2022, I was a teaching assistant for Data Science Concepts and Analysis (PSTAT100), an undergraduate introductory data science course utilizing Python.
+For Spring 2022, I was a teaching assistant for Data Science Concepts and Analysis (PSTAT100), an undergraduate introductory data science course utilizing Python.
 
 Responsibilities
 ======
