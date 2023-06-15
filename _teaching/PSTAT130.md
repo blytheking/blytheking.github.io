@@ -16,4 +16,4 @@ As a teaching assistant, I led sections, wrote weekly material, and graded assig
 
 Topics Covered
 ======
-Data clearning, data visualization, descriptive statistics in SAS
+Data cleaning, data visualization, descriptive statistics in SAS
