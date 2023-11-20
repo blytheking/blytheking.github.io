@@ -15,11 +15,12 @@ Education
 * M.A. in Statistics with a Specialization in Data Science, University of California, Santa Barbara, 2022
 * Ph.D in Statistics and Applied Probability, University of California, Santa Barbara, 2025 (expected)
 
-Work experience
+Professional Experience
 ======
 * February 2021 - present: Graduate Research Assistant
   * University of California, Santa Barbara
-  * Duties included: Analzying cell alignment and proliferation; investigating neural network architecture in cell imaging programs
+  * Duties included: Writing a cell image segmentation R package that does not need a pre-trained model; analzying cell alignment and 
+  proliferation; investigating neural network architecture in cell imaging programs
   * Advisor: Dr. Mengyang Gu
 
 * October 2018 - April 2020: Undergraduate Research Assistant
@@ -33,12 +34,14 @@ Work experience
 
 * June 2019 - August 2019: Research Intern
   * Environmental Protection Agency
-  * Duties included: Using R to conduct exploratory analysis to determine associations between DNA methylation and pathways to all-cause mortality
+  * Duties included: Using R to conduct exploratory analysis to determine associations between DNA methylation and pathways to all-cause 
+  mortality
   * Supervisor: Dr. Cavin Ward-Caviness
 
 * May 2017 - October 2018: Undergraduate Research Assistant
   * UNC Department of Biophysics and Biochemistry
-  * Duties included: Utilizing CRIPSR, transfection, and other cell cloning techniques to prepare cell lines to use in analysis of the effect of DNA looping on gene expression
+  * Duties included: Utilizing CRIPSR, transfection, and other cell cloning techniques to prepare cell lines to use in analysis of the 
+  effect of DNA looping on gene expression
   * Supervisor: Dr. Jill Dowen
   
 Honors and Fellowships
@@ -48,7 +51,8 @@ Honors and Fellowships
 * Regents Fellowship (2020)
   * Offered to one incoming graduate student in the Statistics & Applied Probability Department at UCSB
 * BioPacific MIP Associate (2022 - 2023)
-  * Invited to participate in research discussions covering various bio-materials topics with the BioPacific NSF Materials Innovation Program
+  * Invited to participate in research discussions covering various bio-materials topics with the BioPacific NSF Materials Innovation 
+  Program
 
 Skills
 ======
@@ -71,4 +75,4 @@ Teaching
 Service and leadership
 ======
 * Rehabilitation shift volunteer at Channel Islands Marine Wildlife Institute: assist in veterinary procedures to treat rescued seals and sea lions
-* PSTAT Comittee Adjunct Officer: assist in planning social events and discussing student and faculty needs in the statistics department at UCSB
+* (PAST) PSTAT Comittee Adjunct Officer: assist in planning social events and discussing student and faculty needs in the statistics department at UCSB
