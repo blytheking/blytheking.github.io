@@ -23,6 +23,10 @@ Professional Experience
   proliferation; investigating neural network architecture in cell imaging programs
   * Advisor: Dr. Mengyang Gu
 
+*June 2024 - August 2024: Data Science Intern, Advanced Analytics
+  * Johnson & Johnson
+  * Incoming summer intern
+
 * October 2018 - April 2020: Undergraduate Research Assistant
   * UNC Gillings School of Public Health
   * Duties included: Using R to analyze associations between epigenetic outcomes and exposure to air pollution
