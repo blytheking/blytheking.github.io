@@ -25,7 +25,8 @@ Professional Experience
 
 * June 2024 - September 2024: Data Science Intern, Advanced Analytics
   * Johnson & Johnson
-  * Incoming summer intern
+  * Duties included: Performing time series feature engineering for machine learning models to predict clinical trial site enrollment; 
+  conducting exploratory analysis for the application of generative AI tools in clinical trial research
 
 * October 2018 - April 2020: Undergraduate Research Assistant
   * UNC Gillings School of Public Health
