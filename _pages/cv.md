@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Computer Science, University of North Carolina at Chapel Hill, 2020
 * M.A. in Statistics with a Specialization in Data Science, University of California, Santa Barbara, 2022
-* Ph.D in Statistics and Applied Probability, University of California, Santa Barbara, 2025 (expected)
+* Ph.D in Statistics and Applied Probability, University of California, Santa Barbara, 2025-2026 (expected)
 
 Professional Experience
 ======
