@@ -22,6 +22,15 @@ Professional Experience
   * Duties included: Writing a cell image segmentation R package that does not need a pre-trained model; analzying cell alignment and 
   proliferation; investigating neural network architecture in cell imaging programs
   * Advisor: Dr. Mengyang Gu
+ 
+* Summer 2025: Statistician Intern
+  * Bayer
+  * Duties included: Incoming summer intern
+ 
+* September 2024 - present: DataLab Consultant
+  * University of California, Santa Barbara
+  * Duties included: Advising faculty and graduate researchers across different departments on statistical methods, including result
+  interpretation, model building, and software selection
 
 * June 2024 - September 2024: Data Science Intern, Advanced Analytics
   * Johnson & Johnson
