@@ -11,5 +11,6 @@ Existing supervised cell segmentation tools, such as {\sf ImageJ}, require tunin
 
 Recommended citation: 
 Baracaldo, L., _King, B._, Yan, H., Lin, Y., Miolane, N., & Gu, M. (2025). Unsupervised cell segmentation by fast Gaussian Processes. _arXiv preprint arXiv:2505.18902._
+
 The first three authors contributed equally.
 
