@@ -1,5 +1,5 @@
 ---
-title: "PSTAT100: Statistics and Probability"
+title: "PSTAT100: Data Science Concepts & Analysis"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PSTAT100
