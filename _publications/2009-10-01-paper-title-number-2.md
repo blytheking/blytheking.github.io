@@ -3,7 +3,7 @@ title: "Unsupervised cell segmentation by fast Gaussian Processes"
 collection: Submitted Manuscript
 permalink: /publication/GPCellMasks
 excerpt: 'This manuscript discusses an automatic cell microscopy image segmentation method using Gaussian processes for smoothing, novel adaptive thresholding criteria for detecting foreground objects, and watershed for segmentation.'
-date: 2020-10-1
+date: 2025
 venue: 'arXiv'
 ---
 *Abstract Excerpt:* 
