@@ -10,4 +10,4 @@ This chapter discusses different epigenetic clock models.
 
 
 Recommended citation: 
-Dhingra R, Nwanaji-Enwerem J, Aiello A, Sentilles F, King B, Ward-Caviness C. October 2020. Epigenetics, Aging, and Early Life. In R. Fry (ed.), Environmental Epigenetics in Toxicology and Public Health. Elsevier Inc.
+Dhingra R, Nwanaji-Enwerem J, Aiello A, Sentilles F, _King B_, Ward-Caviness C. October 2020. Epigenetics, Aging, and Early Life. In R. Fry (ed.), Environmental Epigenetics in Toxicology and Public Health. Elsevier Inc.
