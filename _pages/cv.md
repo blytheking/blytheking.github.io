@@ -13,19 +13,19 @@ Education
 ======
 * B.A. in Computer Science, University of North Carolina at Chapel Hill, 2020
 * M.A. in Statistics with a Specialization in Data Science, University of California, Santa Barbara, 2022
-* Ph.D in Statistics and Applied Probability, University of California, Santa Barbara, 2025-2026 (expected)
+* Ph.D in Statistics and Applied Probability, University of California, Santa Barbara, Spring 2026 (expected)
 
 Professional Experience
 ======
+* Summer 2025: Statistician Intern
+  * Bayer
+  * Duties included: Leveraged propensity score methods, targeted learning techniques (TMLE), and Bayesian dynamic borrowing to augment internal clinical trial data with external electronic healthcare records
+
 * February 2021 - present: Graduate Research Assistant
   * University of California, Santa Barbara
   * Duties included: Writing a cell image segmentation R package that does not need a pre-trained model; analzying cell alignment and 
   proliferation; investigating neural network architecture in cell imaging programs
   * Advisor: Dr. Mengyang Gu
- 
-* Summer 2025: Statistician Intern
-  * Bayer
-  * Duties included: Incoming summer intern
  
 * September 2024 - present: DataLab Consultant
   * University of California, Santa Barbara
@@ -71,7 +71,7 @@ Honors and Fellowships
 Skills
 ======
 * Coding: R, Python, SAS, Java
-* Languages: Chinese (advanced) and Spanish (intermediate)
+* Languages: Chinese (working proficiency) and Spanish (basic proficiency)
 
 Publications
 ======
