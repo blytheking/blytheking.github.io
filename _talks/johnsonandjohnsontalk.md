@@ -1,7 +1,7 @@
 ---
 title: "Time Series Feature Engineering for Clinical Trial Site Selection"
 collection: talks
-type: "Talk"
+type: "Conference"
 permalink: /talks/2014-02-01-talk-2
 venue: "Johnson & Johnson Innovative Medicine"
 date: 2024-08-15
