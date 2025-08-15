@@ -2,9 +2,9 @@
 title: "Unsupervised Cellular Boundary Detection by Gaussian Process"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/acceptedstudentsday
 venue: "University of California, Santa Barbara"
-date: 2025-06-19
+date: 2025-02-01
 location: "Santa Barbara, CA"
 ---
 
