@@ -17,46 +17,45 @@ Education
 
 Professional Experience
 ======
-* Summer 2025: Statistician Intern
-  * Bayer
+* Statistician Intern at Bayer (Pharmaceutical Division)
   * Duties included: Leveraged propensity score methods, targeted learning techniques (TMLE), and Bayesian dynamic borrowing to augment internal clinical trial data with external electronic healthcare records
+  * Summer 2025
 
-* February 2021 - present: Graduate Research Assistant
-  * University of California, Santa Barbara
-  * Duties included: Writing a cell image segmentation R package that does not need a pre-trained model; analzying cell alignment and 
-  proliferation; investigating neural network architecture in cell imaging programs
+* Graduate Research Assistant at UCSB Department of Statistics & Applied Probability (Mengyang Gu Group)
+  * Duties included: Developing an automatic cell microscopy image segmentation method using Gaussian processes for smoothing, novel adaptive thresholding criteria for detecting foreground objects, and watershed for segmentation; investigating the use of denoising diffusion generative models (DDPMs) for generating future frames in microscopy videos
   * Advisor: Dr. Mengyang Gu
+  * Feb. 2021 - Present
  
-* September 2024 - present: DataLab Consultant
-  * University of California, Santa Barbara
+* DataLab Consultant at UCSB Department of Statistics & Applied Probability
   * Duties included: Advising faculty and graduate researchers across different departments on statistical methods, including result
   interpretation, model building, and software selection
+  * September 2024 - May 2025
 
-* June 2024 - September 2024: Data Science Intern, Advanced Analytics
-  * Johnson & Johnson
+* Data Science Intern, Advanced Analytics at Johnson & Johnson Innovative Medicine
   * Duties included: Performing time series feature engineering for machine learning models to predict clinical trial site enrollment; 
   conducting exploratory analysis for the application of generative AI tools in clinical trial research
+  * June 2024 - September 2024
 
-* October 2018 - April 2020: Undergraduate Research Assistant
-  * UNC Gillings School of Public Health
-  * Duties included: Using R to analyze associations between epigenetic outcomes and exposure to air pollution
+* Undergraduate Research Assistant at the UNC Gillings School of Public Health
+  * Duties included: Using R to analyze associations between epigenetic outcomes, socioeconomic status, and exposure to air pollution
   * Supervisor: Dr. Radhika Dhingra
+  * Oct. 2018 - April 2020
 
-* May 2019 - April 2020: Intern
-  * Delegate Advisors
+* Intern at Delegate Advisors
   * Duties included: Categorizing fund offerings and organizing electronic file system structure
+  * May 2019 - April 2020
 
-* June 2019 - August 2019: Research Intern
-  * Environmental Protection Agency
+* Research Intern at the Environmental Protection Agency
   * Duties included: Using R to conduct exploratory analysis to determine associations between DNA methylation and pathways to all-cause 
   mortality
   * Supervisor: Dr. Cavin Ward-Caviness
+  * Summer 2019
 
-* May 2017 - October 2018: Undergraduate Research Assistant
-  * UNC Department of Biophysics and Biochemistry
+* Undergraduate Research Assistant at the UNC Department of Biophysics and Biochemistry
   * Duties included: Utilizing CRIPSR, transfection, and other cell cloning techniques to prepare cell lines to use in analysis of the 
   effect of DNA looping on gene expression
   * Supervisor: Dr. Jill Dowen
+  * May 2017 - Oct. 2018
   
 Honors and Fellowships
 ======
@@ -67,10 +66,12 @@ Honors and Fellowships
 * BioPacific MIP Associate (2022 - 2023)
   * Invited to participate in research discussions covering various bio-materials topics with the BioPacific NSF Materials Innovation 
   Program
+* Johnson & Johnson Inspire Award (2024)
+  * Awarded for exceptional project work during summer internship
 
 Skills
 ======
-* Coding: R, Python, SAS, Java
+* Coding: R, Python (advanced); SAS (working proficiency); SQL, Java (basic proficiency)
 * Languages: Chinese (working proficiency) and Spanish (basic proficiency)
 
 Publications
