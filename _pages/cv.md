@@ -57,7 +57,7 @@ _Experience_
   * _Supervisor_: Dr. Jill Dowen
   * May 2017 - October 2018
   
-Honors and Fellowships
+_Honors and Fellowships_
 ======
 * Phillips Ambassador Scholarship (2018)
   * Undergraduate scholarship to study abroad in Asia (CET Beijing)
@@ -69,25 +69,31 @@ Honors and Fellowships
 * Johnson & Johnson Inspire Award (2024)
   * Awarded for exceptional project work during summer internship
 
-Skills
+_Skills_
 ======
 * Coding: R, Python (advanced); SAS (working proficiency); SQL, Java (basic proficiency)
 * Languages: Chinese (working proficiency) and Spanish (basic proficiency)
 
-Publications
+_Publications_
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Teaching
+_Teaching_
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  _Talks_
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-Service and Leadership
+_Service and Leadership_
 ======
 * Current Positions:
   * Rehabilitation shift volunteer at Channel Islands Marine Wildlife Institute: assist in veterinary procedures to treat rescued seals and sea lions
