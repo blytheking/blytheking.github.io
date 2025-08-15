@@ -24,7 +24,7 @@ Professional Experience
 * Graduate Research Assistant at UCSB Department of Statistics & Applied Probability (Mengyang Gu Group)
   * Duties included: Developing an automatic cell microscopy image segmentation method using Gaussian processes for smoothing, novel adaptive thresholding criteria for detecting foreground objects, and watershed for segmentation; investigating the use of denoising diffusion generative models (DDPMs) for generating future frames in microscopy videos
   * Advisor: Dr. Mengyang Gu
-  * Feb. 2021 - Present
+  * February 2021 - Present
  
 * DataLab Consultant at UCSB Department of Statistics & Applied Probability
   * Duties included: Advising faculty and graduate researchers across different departments on statistical methods, including result
@@ -39,7 +39,7 @@ Professional Experience
 * Undergraduate Research Assistant at the UNC Gillings School of Public Health
   * Duties included: Using R to analyze associations between epigenetic outcomes, socioeconomic status, and exposure to air pollution
   * Supervisor: Dr. Radhika Dhingra
-  * Oct. 2018 - April 2020
+  * October 2018 - April 2020
 
 * Intern at Delegate Advisors
   * Duties included: Categorizing fund offerings and organizing electronic file system structure
@@ -55,7 +55,7 @@ Professional Experience
   * Duties included: Utilizing CRIPSR, transfection, and other cell cloning techniques to prepare cell lines to use in analysis of the 
   effect of DNA looping on gene expression
   * Supervisor: Dr. Jill Dowen
-  * May 2017 - Oct. 2018
+  * May 2017 - October 2018
   
 Honors and Fellowships
 ======
