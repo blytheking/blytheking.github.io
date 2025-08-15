@@ -87,7 +87,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Rehabilitation shift volunteer at Channel Islands Marine Wildlife Institute: assist in veterinary procedures to treat rescued seals and sea lions
-* (PAST) PSTAT Comittee Adjunct Officer: assist in planning social events and discussing student and faculty needs in the statistics department at UCSB
+* Current Positions:
+  * Rehabilitation shift volunteer at Channel Islands Marine Wildlife Institute: assist in veterinary procedures to treat rescued seals and sea lions
+* Previous Positions:
+  * PSTAT Comittee Adjunct Officer: assist in planning social events and discussing student and faculty needs in the statistics department at UCSB
