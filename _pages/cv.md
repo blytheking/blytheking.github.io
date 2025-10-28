@@ -26,7 +26,7 @@ _Experience_
   * _Advisor_: Dr. Mengyang Gu
   * February 2021 - Present
  
-* DataLab Consultant at UCSB Department of Statistics & Applied Probability
+* DataLab Graduate Consultant at UCSB Department of Statistics & Applied Probability
   * _Duties included_: Advising faculty and graduate researchers across different departments on statistical methods, including result
   interpretation, model building, and software selection
   * September 2024 - May 2025
@@ -82,7 +82,7 @@ _Publications_
 
 _Software_
 ======
-* “Plotzing,” an R package for customizable, publication-quality plots in a single line of code, 2025. Developed by Gelbart, B., with contributions from King, B. https://github.com/plotzing/plotzing.
+* “Plotzing,” an R package for customizable, publication-quality plots in a single line of code, 2025. Developed by Gelbart, B., with contributions from King, B. [GitHub](https://github.com/plotzing/plotzing).
 
 _Teaching_
 ======
