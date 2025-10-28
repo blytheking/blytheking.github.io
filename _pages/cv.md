@@ -79,8 +79,11 @@ _Publications_
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
+
+_Software_
+======
+* “Plotzing,” an R package for customizable, publication-quality plots in a single line of code, 2025. Developed by Gelbart, B., with contributions from King, B. https://github.com/plotzing/plotzing.
+
 _Teaching_
 ======
   <ul>{% for post in site.teaching %}
