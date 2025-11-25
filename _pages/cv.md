@@ -82,6 +82,7 @@ _Publications_
 
 _Software_
 ======
+* "FastSegmentation," an R package for for automatic and unsupervised cellular image segmentation by fast Gaussian processes, 2025. Developed by King, B., with contributions from Yan, H., Baracaldo, L., and Gu, M. [GitHub](https://github.com/blytheking/FastSegmentation).
 * “Plotzing,” an R package for customizable, publication-quality plots in a single line of code, 2025. Developed by Gelbart, B., with contributions from King, B. [GitHub](https://github.com/plotzing/plotzing).
 
 _Teaching_
