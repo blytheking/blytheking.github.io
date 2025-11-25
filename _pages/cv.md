@@ -31,7 +31,7 @@ _Experience_
   interpretation, model building, and software selection
   * September 2024 - May 2025
 
-* Data Science Intern, Advanced Analytics at Johnson & Johnson Innovative Medicine
+* Data Science Intern, Advanced Analytics at Johnson & Johnson
   * _Duties included_: Performing time series feature engineering for machine learning models to predict clinical trial site enrollment; 
   conducting exploratory analysis for the application of generative AI tools in clinical trial research
   * June 2024 - September 2024
