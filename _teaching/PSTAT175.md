@@ -8,7 +8,7 @@ date: 2025-09-01
 location: "Santa Barbara, CA"
 ---
 
-For Fall 2025, I am teaching PSTAT175 (Survival Analysis), an undergraduate course covering survival analysis topics in R.
+For Fall 2025, I was a teaching assistant for PSTAT175 (Survival Analysis), an undergraduate course covering survival analysis topics in R.
 
 Responsibilities
 ======
