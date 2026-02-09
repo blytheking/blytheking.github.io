@@ -17,7 +17,7 @@ _Education_
 
 _Experience_
 ======
-* Machine Learning Data Scientist at Prenosis, Inc.
+* Machine Learning Data Scientist at Prenosis
   * January 2026 - present
 
 * Statistician Intern at Bayer (Pharmaceutical Division)
