@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth-year statistics PhD candidate at the University of California, Santa Barbara. My research focuses on cell image segmentation methodologies, and I have internship experience analyzing clinical datasets and real-world data. Outside of school, I enjoy hanging out with my dog and volunteering with a sea lion and seal rehabilitation center!
-
-As I approach graduation, I am looking for a role that will not only allow me to leverage my current skillset but also introduce me to new methodologies and interdisciplinary challenges. My previous experience is primarily in quantitative roles in the biotechnology and pharmaceutical industries. However, I am open to all opportunities, and I would be excited to take on new challenges and can adapt quickly to new environments. If you or your organization has opportunities aligning with my skills and interests, please email me at blytheking[at]ucsb.edu.
+I am a sixth-year statistics PhD candidate at the University of California, Santa Barbara. My research focuses on cell image segmentation methodologies, and I have internship experience analyzing clinical datasets and real-world data. I am currently working as a Machine Learning Data Scientist focusing on precision medicine models in acute care. Outside of school, I enjoy hanging out with my dog and volunteering with a sea lion and seal rehabilitation center!
