@@ -17,6 +17,9 @@ _Education_
 
 _Experience_
 ======
+* Machine Learning Data Scientist at Prenosis, Inc.
+  * January 2026 - present
+
 * Statistician Intern at Bayer (Pharmaceutical Division)
   * _Duties included_: Leveraged propensity score methods, targeted learning techniques (TMLE), and Bayesian dynamic borrowing to augment internal clinical trial data with external electronic healthcare records
   * Summer 2025
